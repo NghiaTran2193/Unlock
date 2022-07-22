@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Unlock</string>
+    <string name="rong"> </string>
+    <string name="verity">Verify fingerprint</string>
+    <string name="unlock">Use fingerprints to unlock</string>
+    <string name="parten">Unlock with Partten</string>
+    <string name="txfail">Fingerprints unlock failed!</string>
+    <string name="tvtrue">Unlock Successfully</string>
+    <string name="pincode">Enter your pin code</string>
+    <string name="digits">Enter 4 digits</string>
+    <string name="BIOMETRIC_ERROR_NO_HARDWARE">No biometric features available on this device.</string>
+    <string name="BIOMETRIC_ERROR_HW_UNAVAILABLE">Biometric features are currently unavailable.</string>
+    <string name="BIOMETRIC_ERROR_NONE_ENROLLED">The user hasn\'t associated any biometric
+        credentials with their account.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+</resources>
